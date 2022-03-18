@@ -1,0 +1,14 @@
+{
+  "name": "tutbot",
+  "version": "2.0.0",
+  "description": "DiscordBot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "La3eeb",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
