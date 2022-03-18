@@ -39,4 +39,4 @@ bot.on('message', message => {
         bot.commands.get('youtube').execute(message, args);
     }
 }),
-bot.login("OTE1MTkwMTc3MDc1NDM3NTY4.YaX_RQ.ido58WrNTJm4KGQBWf-NbBJZAjY")
+bot.login("YOUR_BOT_TOKEN")
